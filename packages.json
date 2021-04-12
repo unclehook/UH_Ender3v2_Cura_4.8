@@ -1,0 +1,272 @@
+{
+    "dismissed": [],
+    "installed": {
+        "CalibrationShapes": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\CalibrationShapes.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "5axes",
+                    "display_name": "5axes",
+                    "email": "cuq@free.fr",
+                    "website": "https://github.com/5axes"
+                },
+                "description": "This plugin adds a menu to create some basic shapes to the scene (cube, cylinder, tube) and standard test part. \n\nYou can add standard test / calibration part :\n- Calibration Cube XYZ\n- PLA TempTower 220 - 180\u00b0C\n- ABS TempTower 250 - 210\u00b0C\n- PETG TempTower 260 - 230\u00b0C\n- Junction Deviation Tower\n- Retract Tower\n- Retract Test part\n- Bridge Spiral Test\n- Thin Wall Test\n- Overhang Test\n- Flow Test\n- Tolerance Test\n- MultiCube Test\n- Bed Level Calibration Test\n\nAnd Multi-Extruder part :\n- Extruder Offset Calibration\n- Cube bi-color\n\n+ 3 postprocessing scripts",
+                "display_name": "Calibration Shapes",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CalibrationShapes",
+                "package_type": "plugin",
+                "package_version": "1.1.1",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.4.0",
+                "website": "https://github.com/5axes/Calibration-Shapes"
+            }
+        },
+        "CustomJobPrefix": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\CustomJobPrefix.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Lets the user customise the prefix and postfix for print jobs (gcode files) on a per-printer basis. \n\nFormerly known as Custom Printjob Prefix.",
+                "display_name": "Printjob Naming",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CustomJobPrefix",
+                "package_type": "plugin",
+                "package_version": "3.6.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-CustomJobPrefix"
+            }
+        },
+        "CustomSupportCylinder": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\CustomSupportCylinder.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "5axes",
+                    "display_name": "5axes",
+                    "email": "cuq@free.fr",
+                    "website": "https://github.com/5axes"
+                },
+                "description": "A Cura plugin  to add 6 types of custom supports :\n- Cylindrical\n- Tube\n- Cube\n- Abutment\n- Freeform ( Geometry can be defined by your own STL  file)\n           - Cross\n           - Section\n           - Pillar\n           - Bridge\n           - Arch Buttress  (Arc boutant)\n           - Custom\n- Customized ( Definition with two selected points )",
+                "display_name": "Cylindric Custom Support",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CustomSupportCylinder",
+                "package_type": "plugin",
+                "package_version": "2.5.5",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.4.0",
+                "website": "https://github.com/5axes/CustomSupportCylinder"
+            }
+        },
+        "CustomSupports": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\CustomSupports.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "lokster",
+                    "display_name": "Krasimir Stefanov",
+                    "email": "lokiisyourmaster@gmail.com",
+                    "website": "http://lokspace.eu"
+                },
+                "description": "Cura plugin, which enables you to add custom supports!",
+                "display_name": "Custom Supports",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CustomSupports",
+                "package_type": "plugin",
+                "package_version": "0.1.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.2.0",
+                "website": "http://lokspace.eu/cura-custom-supports-plugin/"
+            }
+        },
+        "MeshTools": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\MeshTools.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds several mesh analysis and manipulation tools.",
+                "display_name": "Mesh Tools",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "MeshTools",
+                "package_type": "plugin",
+                "package_version": "3.5.6",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-MeshTools"
+            }
+        },
+        "OctoPrintPlugin": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\OctoPrintPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Enables networked printing and monitoring with OctoPrint.\n\nOctoPrint is a registered trademark. For more information about OctoPrint, see octoprint.org\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "OctoPrint Connection",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "OctoPrintPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.18",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.4.0",
+                "website": "https://github.com/fieldOfView/Cura-OctoPrintPlugin"
+            }
+        },
+        "OrientationPlugin": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\OrientationPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "nallath",
+                    "display_name": "nallath",
+                    "email": "j.vankessel@ultimaker.com",
+                    "website": "http://www.github.com/nallath"
+                },
+                "description": "Extension that enables the automatic orientation of models to reduce the need for support. This wraps the MeshTweaker by Christoph Schranz, so it can be easily used in Cura. ",
+                "display_name": "Auto-Orientation",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "OrientationPlugin",
+                "package_type": "plugin",
+                "package_version": "3.6.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/nallath/CuraOrientationPlugin"
+            }
+        },
+        "Polymaker_Polymaker_PC_PBT_2020": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\Polymaker_Polymaker_PC_PBT_2020.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "Nicolas_Tokotuu",
+                    "display_name": "Polymaker",
+                    "email": "support@polymaker.com",
+                    "website": "https://www.polymaker.com"
+                },
+                "description": "Polymaker\u2122 PC-PBT is a PC/PBT polymer blend which offers good heat resistance and toughness at low temperature (-20\u02daC/-30\u02daC). Polymaker\u2122 PC-PBT also features  good chemical resistance.\n\nFor better part strength and to relieve the residual stress, annealing the parts at 90\u2103 for 2 hour right after printing",
+                "display_name": "Polymaker\u2122 PC-PBT",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "Polymaker_Polymaker_PC_PBT_2020",
+                "package_type": "material",
+                "package_version": "4.0.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.5.0",
+                "website": "https://polymaker.com/product/polymaker-pc-pbt/"
+            }
+        },
+        "SettingsGuide2": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\SettingsGuide2.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "Ghostkeeper",
+                    "display_name": "Ghostkeeper",
+                    "email": "rubend@tutanota.com",
+                    "website": "https://github.com/Ghostkeeper"
+                },
+                "description": "A guide on what settings do and how to use them.\nRight-click on a setting to access the guide.",
+                "display_name": "Settings Guide",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "SettingsGuide2",
+                "package_type": "plugin",
+                "package_version": "2.4.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/Ghostkeeper/SettingsGuide"
+            }
+        },
+        "StartOptimiser": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\StartOptimiser.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Lets the user optimise the Cura startup time by only loading configuration files for printers that are currently configured in Cura.\n\nThe development of this plugin can be sponsored via Github Sponsors (https://github.com/sponsors/fieldofview) or Paypal (https://www.paypal.me/fieldofview)",
+                "display_name": "Startup Optimiser",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "StartOptimiser",
+                "package_type": "plugin",
+                "package_version": "3.5.2",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-StartOptimiser"
+            }
+        },
+        "ThingiBrowser": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\ThingiBrowser.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "ChrisTerBekeAuthor",
+                    "display_name": "Chris ter Beke",
+                    "email": "info@christerbeke.com",
+                    "website": "https://christerbeke.com"
+                },
+                "description": "Search and import 3D files from popular online repositories directly in Cura.\n\nThis plugin is not affiliated with Thingiverse or MyMiniFactory.",
+                "display_name": "ThingiBrowser",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "ThingiBrowser",
+                "package_type": "plugin",
+                "package_version": "2.2.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.3.0",
+                "website": "https://github.com/ChrisTerBeke/ThingiBrowser"
+            }
+        },
+        "ZOffsetPlugin": {
+            "filename": "C:\\Users\\unclehook\\AppData\\Local\\cura\\4.8\\cache\\cura_packages\\ZOffsetPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Adds a Z Offset setting to change the distance between the nozzle and the buildplate.",
+                "display_name": "Z Offset Setting",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "ZOffsetPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.7",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.0.0",
+                "website": "https://github.com/fieldOfView/Cura-ZOffsetPlugin"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}

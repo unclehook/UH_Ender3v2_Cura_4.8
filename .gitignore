@@ -1,0 +1,16 @@
+#Exclusions
+
+# Files
+*.log
+*.log.1
+scripts/RetractTower.py
+scripts/TempFanTower.py
+scripts/SpeedTower.py
+materials/Polymaker_Polymaker_PC_PBT_2020/polymaker_polymaker+pc-pbt.xml.fdm_material
+quality/Polymaker_Polymaker_PC_PBT_2020/ultimaker_s3_polymaker_polymaker pc-pbt_draft.inst.cfg
+quality/Polymaker_Polymaker_PC_PBT_2020/ultimaker_s5_polymaker_polymaker pc-pbt_draft.inst.cfg
+
+#Folders
+plugins/*
+__pycache__
+
