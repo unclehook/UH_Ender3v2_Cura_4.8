@@ -166,7 +166,7 @@
                 },
                 "description": "Polymaker\u2122 PC-PBT is a PC/PBT polymer blend which offers good heat resistance and toughness at low temperature (-20\u02daC/-30\u02daC). Polymaker\u2122 PC-PBT also features  good chemical resistance.\n\nFor better part strength and to relieve the residual stress, annealing the parts at 90\u2103 for 2 hour right after printing",
                 "display_name": "Polymaker\u2122 PC-PBT",
-                "is_active": true,
+                "is_active": false,
                 "is_bundled": false,
                 "is_installed": true,
                 "package_id": "Polymaker_Polymaker_PC_PBT_2020",
@@ -267,6 +267,8 @@
         }
     },
     "to_install": {},
-    "to_remove": [],
+    "to_remove": [
+        "Polymaker_Polymaker_PC_PBT_2020"
+    ],
     "version": 1
 }
